@@ -1,0 +1,195 @@
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+}
+#own{
+	width: 1920px;
+	height: 2966px;
+	margin: 0 auto;
+	background: #C7C6C6;
+}
+#menu-bar{
+	width: 1920px;
+	height: 100px;
+	background: black;
+}
+.logo{
+	width: 950px;
+	height: 100px;
+	float: left;
+}
+.logo img{
+	margin-top: 10px;
+	margin-left: 40px;
+}
+.menu{
+	width: 950px;
+	height: 100px;
+	float: right;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+	margin-left: 100px;
+	font-size: 30px;
+	line-height: 100px;
+}
+.trai
+{
+	text-align: left;
+	float: left;
+	margin-left: 300px;
+}
+.phai{
+	text-align: left;
+	float: left;
+	margin-left: 10px;
+}
+.menu a:hover{
+	border: 0.5px solid white;
+}
+
+#top{
+	width: 1920px;
+	height: 870px;
+	background: #F5898B;
+	float: left;
+}
+.bar{
+	width: 1920px;
+	height: 95px;
+	background: #282828;
+	float: left;
+}
+h1{
+	color: white;
+	text-align: center;
+	line-height: 90px;
+}
+h2{
+	color: black;
+	font-size: 60px;
+	text-align: center;
+	line-height: 90px;
+	font-weight: lighter;
+}
+.word{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 40px;
+}
+#body{
+	width: 1920px;
+	height: 1511px;
+	background: black;
+	float: left;
+}
+.content-1{
+	width: 1920px;
+	height: 680px;
+	background: white;
+	float: left;
+}
+.content-1 word{
+	width: 1920px;
+	height: 300px;
+	margin: 0 auto;
+	float: left
+}
+.date{
+	width: 169px;
+}
+.content-2{
+	width: 1920px;
+	height: 500px;
+	background: black;
+	float: left;
+}
+#bottom{
+	width: 1920px;
+	height: 390px;
+	background: white;
+	float: left;
+}
+.img{
+	width: 1920px;
+	height: 300px;
+	text-align: center;
+	margin-top: -30px;
+}
+.car{
+	width: 300px;
+	padding: 50px;
+}
+.textbar{
+	width: 768px;
+	height: 150px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+h3{
+	color: white;
+	font-size: 80px;
+	font-weight: lighter;
+	text-align: center;
+}
+h5{
+	color: white;
+	text-align: center;
+	font-weight: lighter;
+	margin-top: 20px;
+}
+.option-buy{
+	background: white;
+	height: 100px;
+}
+form{
+	color: white;
+	
+}
+.textmenu{
+	height: 200px;
+	width: 800px;
+	margin: 0 auto;
+}
+fieldset{
+	height: 150px;
+	padding-top: 50px;
+	text-align: center;
+	margin-top: 30px;
+}
+h4{
+	color: black;
+	font-size: 50px;
+	line-height: 50px;
+	text-align: center;
+	margin-top: 50px;
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.phonebla{
+	width: 800px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+.phone-left{
+	width: 400px;
+	height: 200px;
+	float: left;
+}
+.phone-right{
+	width: 400px;
+	height: 200px;
+	float: right;
+}
+.placer{
+	font: bolder;
+	font-size: 30px;	
+}
+.bordername{
+	float: left;
+	height: 30px;
+	width: 200px;
+}
